@@ -16,6 +16,10 @@ const styles = StyleSheet.create({
     displayValue:{
         fontSize:60,
         color:'#fff'
+    },
+    displayHistory{
+        fontSize:30,
+        color:'#fff'
     }
 })
 
